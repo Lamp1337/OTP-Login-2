@@ -9,7 +9,8 @@ NodeJS
 > [![win](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Lamp1337)
   - Download This Source
   - Extract The Zip File
-  - install the module's
+  - install the module
+  - dont forget to change ur webhook url
   - Open index.js use node.exe / command prompt
 
 ## Information
