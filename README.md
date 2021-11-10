@@ -10,7 +10,7 @@ NodeJS
   - Download This Source
   - Extract The Zip File
   - install the module
-  - dont forget to change ur webhook url on line 21
+  - dont forget to change ur webhook url on line 49
   - Open index.js use node.exe / command prompt
 
 ## Information
